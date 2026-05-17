@@ -12,13 +12,12 @@ El objetivo principal del proyecto es aplicar de forma práctica los conocimient
 ## Contenido del proyecto
 
 - Memoria del proyecto.
-- Plano físico de la sede.
+- Plano de la sede.
 - Plano de cableado estructurado.
 - Esquema lógico de red.
 - Tabla de direccionamiento IP y VLANs.
 - Presupuesto de material informático.
 - Página web corporativa.
-- Sistema básico de tickets.
 - Pruebas y verificación de la infraestructura.
 
 ## Tecnologías y herramientas utilizadas
