@@ -1,4 +1,4 @@
-# Infranetsolutions.S.L.
+# Infranet Solutions.S.L.
 ## Descripción del proyecto
 
 Infranet Solutions S.L. es un proyecto de síntesis del ciclo de Sistemas Microinformáticos y Redes. Consiste en la creación y planificación de una empresa tecnológica ficticia dedicada al diseño, instalación y mantenimiento de infraestructuras informáticas para pequeñas y medianas empresas.
