@@ -37,12 +37,3 @@ Proyecto realizado por:
 
 Curso académico 2024-2025  
 Ciclo: Sistemas Microinformáticos y Redes
-
-
-## Herramientas utilizadas
-
-- Windows Server
-- Active Directory
-- Cisco Packet Tracer
-- Google Sites
-- Canva
