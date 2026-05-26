@@ -37,3 +37,15 @@ Proyecto realizado por:
 
 Curso académico 2024-2025  
 Ciclo: Sistemas Microinformáticos y Redes
+
+
+## Estructura recomendada del repositorio
+
+```text
+/memoria
+/planos
+/red
+/presupuesto
+/web
+/presentacion
+/capturas
