@@ -24,11 +24,8 @@ El objetivo principal del proyecto es aplicar de forma práctica los conocimient
 
 - Windows Server
 - Active Directory
-- Cisco Packet Tracer
 - Google Sites
-- Google Forms
 - Canva
-- Excel / Google Sheets
 - GitHub
 
 ## Autores
@@ -49,4 +46,3 @@ Ciclo: Sistemas Microinformáticos y Redes
 - Cisco Packet Tracer
 - Google Sites
 - Canva
-- Excel / Google Sheets
